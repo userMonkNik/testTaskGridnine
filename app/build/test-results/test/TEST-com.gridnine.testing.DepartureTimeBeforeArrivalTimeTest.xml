@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gridnine.testing.DepartureTimeBeforeArrivalTimeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-19T12:06:16" hostname="LAPTOP-CBGLE1NA" time="0.019">
+  <properties/>
+  <testcase name="test()" classname="com.gridnine.testing.DepartureTimeBeforeArrivalTimeTest" time="0.019"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
