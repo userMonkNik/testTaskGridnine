@@ -1,22 +1,8 @@
 package com.gridnine.testing;
 
-import org.w3c.dom.ls.LSOutput;
-
 import java.util.List;
 
 public class Main {
-    /*public static void main(String[] args) {
-        List<Flight> flightList = FlightBuilder.createFlights();
-        System.out.println(flightList);
-
-        SortingFlightsStrategy actualDepartureTime = new ActualSegmentDepartureTime();
-        SortingFlightsStrategy arrivalAfterDeparture = new DepartureTimeBeforeArrivalTime();
-        SortingFlightsStrategy lessOrTwoHoursBetweenSegments = new LessOrTwoHoursBetweenSegments();
-
-        System.out.println(actualDepartureTime.apply(flightList));
-        System.out.println(arrivalAfterDeparture.apply(flightList));
-        System.out.println(lessOrTwoHoursBetweenSegments.apply(flightList));
-    }*/
 
     public static void main(String[] args) {
 
